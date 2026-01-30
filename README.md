@@ -1,2 +1,2 @@
 # Car-Dashboard
-Built a Power BI car sales dashboard to analyze brand-wise and model-wise performance using interactive visuals
+Developed an interactive Power BI dashboard to analyze car sales performance across multiple brands, models, and regions. The dashboard tracks key metrics such as total sales, revenue, average selling price, and model-wise performance. Implemented dynamic slicers and drill-downs to enable comparison by brand, fuel type, transmission, and time period, helping stakeholders identify top-performing models and sales trends for data-driven decision-making.
